@@ -7,8 +7,62 @@
         <arraytype>7</arraytype>
     </drawable>
     <drawable>
+        <name>batteryI.xml</name>
+        <arraytype>14</arraytype>
+        <centerX>-200</centerX>
+        <centerY>0</centerY>
+    </drawable>
+    <drawable>
+        <name>batteryX.xml</name>
+        <arraytype>14</arraytype>
+        <centerX>200</centerX>
+        <centerY>0</centerY>
+    </drawable>
+    <drawable>
+        <name>batteryC.xml</name>
+        <arraytype>14</arraytype>
+        <centerX>600</centerX>
+        <centerY>0</centerY>
+    </drawable>
+    <drawable>
+        <name>minuteI.xml</name>
+        <arraytype>8</arraytype>
+        <centerX>-200</centerX>
+        <centerY>0</centerY>
+    </drawable>
+    <drawable>
+        <name>minuteX.xml</name>
+        <arraytype>8</arraytype>
+        <centerX>200</centerX>
+        <centerY>0</centerY>
+    </drawable>
+    <drawable>
+        <name>minuteC.xml</name>
+        <arraytype>8</arraytype>
+        <centerX>600</centerX>
+        <centerY>0</centerY>
+    </drawable>
+    <drawable>
+        <name>secondI.xml</name>
+        <arraytype>9</arraytype>
+        <centerX>-200</centerX>
+        <centerY>0</centerY>
+    </drawable>
+    <drawable>
+        <name>secondX.xml</name>
+        <arraytype>9</arraytype>
+        <centerX>200</centerX>
+        <centerY>0</centerY>
+    </drawable>
+    <drawable>
+        <name>secondC.xml</name>
+        <arraytype>9</arraytype>
+        <centerX>600</centerX>
+        <centerY>0</centerY>
+    </drawable>
+    <drawable>
         <arraytype>99</arraytype>
-        <centerX>135</centerX>
+        <centerX>150</centerX>
         <centerY>-50</centerY>
     </drawable>
 </clockskin>
