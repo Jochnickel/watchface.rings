@@ -62,7 +62,7 @@
     </drawable>
     <drawable>
         <arraytype>99</arraytype>
-        <centerX>150</centerX>
-        <centerY>-50</centerY>
+        <centerX>-25</centerX>
+        <centerY>88</centerY>
     </drawable>
 </clockskin>
