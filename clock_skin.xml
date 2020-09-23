@@ -37,12 +37,6 @@
         <centerY>0</centerY>
     </drawable>
     <drawable>
-        <name>minuteC.xml</name>
-        <arraytype>8</arraytype>
-        <centerX>600</centerX>
-        <centerY>0</centerY>
-    </drawable>
-    <drawable>
         <name>secondI.xml</name>
         <arraytype>9</arraytype>
         <centerX>-200</centerX>
@@ -52,12 +46,6 @@
         <name>secondX.xml</name>
         <arraytype>9</arraytype>
         <centerX>200</centerX>
-        <centerY>0</centerY>
-    </drawable>
-    <drawable>
-        <name>secondC.xml</name>
-        <arraytype>9</arraytype>
-        <centerX>600</centerX>
         <centerY>0</centerY>
     </drawable>
     <drawable>

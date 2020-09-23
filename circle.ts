@@ -32,7 +32,7 @@ const COLOR3_UNTIL = args.color3_until || -1
 const COLOR_PASSIVE = args.passive || BLACK
 const RADIUS = args.radius || 190
 const MAX = args.max || 100
-const DOT_RADIUS = 6
+const DOT_RADIUS = 4
 
 function printDot(i, color) {
     if (null === color) return;
@@ -56,6 +56,7 @@ for (let i = 0; i < MAX;) {
         i++;
     };
     for (let b = 0; b < args.black && i < MAX; b++) {
+        printDot(i, BLACK);
         printDot(i, COLOR_PASSIVE);
         i++;
     };
